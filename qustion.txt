@@ -1,0 +1,10 @@
+1.what is the end date of lease?
+2.what is the company name?
+3.what  is the tenant name?
+4.what is the Resident name?
+5.what is the date of beginning on the first day?
+6.what is the date of ending on the last day?
+7.what is the date of LEASE AGREEMENT is made and entered ?
+8.what is the Total Rent amount lease?
+9.what is the Total Rent Due Monthly amount?
+10.what is the Landlord's Address?

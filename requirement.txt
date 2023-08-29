@@ -1,0 +1,21 @@
+1.pip install pytorch -(pip3 install torch torchvision torchaudio  -https://pytorch.org/)
+2.pip install flask
+3.pip install opencv-python
+4.pip install transformers
+5.pip install simpletransformers -(https://github.com/ThilinaRajapakse/simpletransformers/)
+6.pip install sentence_transformers
+7.pip install langchain
+8.pip install tiktoken
+9.pip install pdfminer.six
+10.pip install pypdf PyMuPDF PyPDF2
+11.pip install Pillow
+12.pip install faiss-cpu
+13.pip install flair
+
+13.https://huggingface.co/models (pretranined model and dataset)
+14.https://huggingface.co/docs/transformers/main_classes/pipelines( transformers pipeline)
+
+15. https://huggingface.co/transformers/main_classes/pipelines.html
+
+delete download model location:
+C:\Users\VigneshSubramani\Desktop\MAIN PROJECT\Transformer\venv\lib\site-packages\huggingface_hub\file_download
